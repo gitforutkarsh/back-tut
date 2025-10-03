@@ -6,7 +6,7 @@ const app = express();
 const port = 8000
 
 //connection
-connectMongoDB("mongodb://127.0.0.1:27017/NodeJSTut")
+connectMongoDB("mongodb://127.0.0.1:27017/MyDB")
 
 
 //middleware 
